@@ -1,6 +1,6 @@
 #  I’m Juls, FullStack Developer
 
-Hello, I'm Julian Catalan, student at Tec de Monterrey pursuing a B.S. in Computer Science and Technology, currently in my fifth semester. Along with my studies in areas like web programming, video game development, and networks, I actively engage in freelancing, focusing on frontend, backend development, and UX/UI design. I continuously seek to improve both my technical and communication skills, as I believe teamwork and collaboration are key to long-term success.
+Hello, I'm Julian Catalan, student at Tec de Monterrey pursuing a B.S. in Computer Science and Technology. Along with my studies in areas like web programming, video game development, and networks, I actively engage in freelancing, focusing on frontend, backend development, and UX/UI design. I continuously seek to improve both my technical and communication skills, as I believe teamwork and collaboration are key to long-term success.
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulsCatalan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=JulsCatalan&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
